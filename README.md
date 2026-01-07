@@ -1,2 +1,4 @@
 # MANUAL-TESTING-PROJECT
-As a part of my software testing training i worked on a manual testing  project for a web based application called UNO by Rategain and i create testcase both positive and negative then bug report , defect distribution graph and testreport and i divied the websit einto each module and write testcase for each module 
+As part of my software testing training, I worked on a manual testing project for a web-based application called UNO by RateGain. The objective of this project was to ensure the functionality, usability, and reliability of the application.
+In this project, I divided the website into different modules and wrote detailed test cases for each module, including both positive and negative scenarios. I executed the test cases and documented the results clearly.
+Whenever issues were identified, I prepared bug reports with proper details such as severity, priority, steps to reproduce, expected result, and actual result. I also created a defect distribution graph to analyze the defects based on severity and module-wise distribution.
